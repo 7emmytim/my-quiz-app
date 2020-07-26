@@ -105,7 +105,7 @@ let randomArr =
     { question: "BASIC, Perl, and Python are types of what?", firstAns: { ans: "ISPs", value: "B" }, nextAns: { ans: "Computer languages", value: "A" } },
     { question: "What shape is the DNA molecule?", firstAns: { ans: "Single helix", value: "B" }, nextAns: { ans: "A double helix", value: "A" } },
     { question: "What does DVD stand for?", firstAns: { ans: "Digital Volatile Disc", value: "B" }, nextAns: { ans: "Digital Versatile Disc", value: "A" } },
-    { question: "What does the FM in radio stations stand for?", firstAns: { ans: "Chukkas", value: "A" }, nextAns: { ans: "Chakras", value: "B" } },
+    { question: "What does the FM in radio stations stand for?", firstAns: { ans: "Frequency Modulation", value: "A" }, nextAns: { ans: "Free Modulation", value: "B" } },
     { question: "The duration of a game of Polo is measured in what?", firstAns: { ans: "Water polo", value: "B" }, nextAns: { ans: "Boxing", value: "A" } },
     { question: "Which sport cannot be played left handed since 1975, for safety reasons?", firstAns: { ans: "Cycling", value: "B" }, nextAns: { ans: "Polo", value: "A" } },
     { question: "How many balls are there on a snooker table at the start of a game?", firstAns: { ans: "18", value: "B" }, nextAns: { ans: "22", value: "A" } },
