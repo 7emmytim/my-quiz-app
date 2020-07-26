@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400;500;600;700&display=swap');
+
+.welcome-page {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/02.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* font-family: 'Playfair Display', serif; */
+    font-family: 'Zilla Slab', serif;
+    height: 100vh;
+    text-align: center;
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+}
+
+nav {
+    font-weight: 700 !important;
+    margin: 0 !important;
+}
+
+.navbar-brand {
+    color: #000;
+    font-size: 1.2rem !important;
+    font-weight: 500 !important;
+    letter-spacing: 3px;
+}
+
+.quiz-welcome h2 {
+    color: #fff;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 3.5rem;
+}
+
+.quiz-welcome img {
+    margin-top: 18vh;
+    width: 15vh;
+}
+
+.lead-p {
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 100;
+}
+
+a {
+    border-radius: 0 !important;
+    line-height: 1.5 !important;
+    padding: 4px 30px !important;
+}

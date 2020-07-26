@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;600;700;900&display=swap');
+
+h5 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.5rem;
+    font-weight: 400;
+    text-align: center !important;
+}
+
+.questions {
+    color: #fff;
+    height: auto;
+}
+
+.submit-btn {
+    text-align: center;
+}
+
+ol {
+    font-size: 1rem !important;
+    padding: 0;
+}
+
+.result-heading {
+    display: none;
+    text-align: center;
+}
+
+.result-heading h5 {
+    font-size: 5rem;
+}
+
+.correction {
+    background-color: #fff;
+    border-radius: 10px;
+    color: gray;
+    display: none;
+    padding: 20px;
+    text-align: center;
+}
+
+small {
+    color: gray;
+}

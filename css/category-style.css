@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400;500;600;700&display=swap');
+
+.category-page {
+    font-family: 'Zilla Slab', serif;
+    text-align: center;
+}
+
+.list-group-item {
+    border-radius: 8px!important;
+}
+
+h5 {
+    font-family: 'Recursive', sans-serif;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.start-now, .feedback {
+    border-radius: 5px !important;
+}
+
+.category-divs {
+    background-color: rgba(0, 0, 0, 0.015);
+    background-color: #007bff0e;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 0.7rem;
+    margin: 5px;
+    padding: 8px 0;
+    text-align: center;
+    width: 25vw;
+}
+
+/**************************** Contact Section ****************************/
+/**************************** Bootstrap (Form) ****************************/
+#contact-section input, #contact-section textarea {
+    background: transparent;
+    letter-spacing: 2px;
+    margin: 10px auto;
+    width: 80%;
+}
+
+#contact-section ::placeholder {
+    color: black;
+    font-weight: 200;
+    opacity: 0.4;
+}
+
+#contact-section input[type=text] {
+    color: black;
+}
+
