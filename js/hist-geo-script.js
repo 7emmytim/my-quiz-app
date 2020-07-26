@@ -38,7 +38,8 @@ let histArr =
     { question: "Which of these contain large quantities of ice?", firstAns: { ans: "asteroids", value: "B" }, nextAns: { ans: "comets", value: "A" } },
     
     { question: "What lies above the troposphere?", firstAns: { ans: "Ionosphere", value: "B" }, nextAns: { ans: "stratosphere", value: "A" } },
-    
+    { question: "Which is the largest country through which the equator passes?", firstAns: { ans: "Brazil", value: "A" }, nextAns: { ans: "Algeria", value: "B" } },
+
 ];
 
 //Generate four random arrays to use

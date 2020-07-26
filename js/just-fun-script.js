@@ -25,8 +25,13 @@ let funnyArr =
     { question: "Which came first: colour or sound films?", firstAns: { ans: "Sound films", value: "B" }, nextAns: { ans: "Colour films", value: "A" } },
     { question: "What is 1999 in Roman numerals?", firstAns: { ans: "MCMXXCIX", value: "B" }, nextAns: { ans: "MCMXCIX", value: "A" } },
     { question: "How many hearts do octopuses have?", firstAns: { ans: "Zero", value: "B" }, nextAns: { ans: "Three", value: "A" } },
-    { question: "Which of them does not have a twitter account?", firstAns: { ans: "Jeff Bezos", value: "B" }, nextAns: { ans: "Mark Zuckerberg", value: "A" } }  
-
+    { question: "Which of them does not have a twitter account?", firstAns: { ans: "Jeff Bezos", value: "B" }, nextAns: { ans: "Mark Zuckerberg", value: "A" } },
+    
+    { question: "According to the Hakuna Matata song from 'The Lion King' movie, what does the phrase Hakuna Matata mean?", firstAns: { ans: "all is well", value: "B" }, nextAns: { ans: "no troubles", value: "A" } },
+    { question: "Hakuna Matata from 'The Lion King' movie is from which language", firstAns: { ans: "Swahili", value: "A" }, nextAns: { ans: "Hindi", value: "B" } },
+    { question: "What is the name of the main character in the 'Home Alone' movie?", firstAns: { ans: "Harry", value: "B" }, nextAns: { ans: "Kevin", value: "A" } },
+    { question: "Who directed Titanic, Avatar and The Terminator?", firstAns: { ans: "James Cameron", value: "A" }, nextAns: { ans: "Ridley Scott", value: "B" } },
+    { question: "Most notations for piano music are in Italian, and that even includes the word 'piano' itself. What does 'piano' translate to in English?", firstAns: { ans: "keyboard", value: "B" }, nextAns: { ans: "soft", value: "A" } },
     
 ];
 

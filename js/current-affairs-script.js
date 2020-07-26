@@ -33,6 +33,8 @@ let currentAffairs =
     { question: "Guaraní is both the currency and an official language of which country?", firstAns: { ans: "Panama", value: "B" }, nextAns: { ans: "Paraguay", value: "A" } },
     { question: "Which country's has it's official languges as English, Malay, Mandarin, and Tamil?", firstAns: { ans: "China", value: "B" }, nextAns: { ans: "Singapore", value: "A" } },
     
+    { question: "Which is the only truly African language of the six official working languages of the African Union?", firstAns: { ans: "Swahili", value: "A" }, nextAns: { ans: "Arabic", value: "B" } },
+    { question: "Which European country is not a member of the United Nations?", firstAns: { ans: "Andorra", value: "B" }, nextAns: { ans: "The Vatican", value: "A" } },
     
 ];
 

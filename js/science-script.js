@@ -62,6 +62,11 @@ let scienceArr =
     { question: "What is the SI unit of force?", firstAns: { ans: "Newton", value: "A" }, nextAns: { ans: "Joules", value: "B" } },
     { question: "What lies above the troposphere?", firstAns: { ans: "Ionosphere", value: "B" }, nextAns: { ans: "stratosphere", value: "A" } },
     { question: "What is the chemical symbol for Ozone?", firstAns: { ans: "O3", value: "A" }, nextAns: { ans: "O2", value: "B" } },
+    { question: "Whats the the name for the bending of light as it passes from one medium to another?", firstAns: { ans: "Diffraction", value: "B" }, nextAns: { ans: "Refraction", value: "A" } },
+    { question: "Evaporation is changing from a liquid to gas. What is changing from a solid to a gas called?", firstAns: { ans: "Sublimation", value: "A" }, nextAns: { ans: "Crystallization", value: "B" } },
+    { question: "Litmus paper turns what colour when in contact with an acid?", firstAns: { ans: "pink", value: "B" }, nextAns: { ans: "red", value: "A" } },
+    { question: "What is calcium carbonate normally known as?", firstAns: { ans: "chalk", value: "A" }, nextAns: { ans: "charcoal", value: "B" } },
+    { question: "What is the name given to rain with a particularly low pH?", firstAns: { ans: "Alkaline Rain", value: "B" }, nextAns: { ans: "Acid Rain", value: "A" } },
 ];
 
 //Generate four random arrays to use
